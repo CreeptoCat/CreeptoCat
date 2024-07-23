@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://github.com/CreeptoCat/CreeptoCat/blob/main/CreeptoCat-BG.png
+<img src="https://github.com/CreeptoCat/CreeptoCat/blob/main/CreeptoCat-BG.png">
